@@ -1,4 +1,4 @@
-# Code for funding statistics of the linear fit:
+# Code for finding statistics of the linear fit:
 
 #Load libraries
 
