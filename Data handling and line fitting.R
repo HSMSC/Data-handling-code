@@ -20,6 +20,10 @@ summary(MATmodel)
 confint(MATmodel)
 
 #Code for summarizing image analysis results and exporting to CSV
+#Load libraries
+
+library(utils)
+library(dplyr)
 
 #Take the average of b 
 
